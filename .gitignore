@@ -1,4 +1,8 @@
 .vs/
-x64/
-Debug/
-Release/
+.vscode/
+
+build/
+submodules/
+
+cmake-build-debug
+cmake-build-release
